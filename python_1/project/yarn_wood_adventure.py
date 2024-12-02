@@ -1,6 +1,6 @@
 # Function to present choices and return player's selection
 def make_choice():
-    print("\nWhat will you do?")
+    print("What will you do?")
     print("1. Set up camp")
     print("2. Grab a snack")
     print("3. Explore the woods")
