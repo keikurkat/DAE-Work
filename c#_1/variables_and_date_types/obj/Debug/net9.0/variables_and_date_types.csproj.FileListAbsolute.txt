@@ -1,0 +1,15 @@
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/bin/Debug/net9.0/variables_and_date_types
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/bin/Debug/net9.0/variables_and_date_types.deps.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/bin/Debug/net9.0/variables_and_date_types.runtimeconfig.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/bin/Debug/net9.0/variables_and_date_types.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/bin/Debug/net9.0/variables_and_date_types.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/obj/Debug/net9.0/variables_and_date_types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/obj/Debug/net9.0/variables_and_date_types.AssemblyInfoInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/obj/Debug/net9.0/variables_and_date_types.AssemblyInfo.cs
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/obj/Debug/net9.0/variables_and_date_types.csproj.CoreCompileInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/obj/Debug/net9.0/variables_and_date_types.sourcelink.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/obj/Debug/net9.0/variables_and_date_types.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/obj/Debug/net9.0/refint/variables_and_date_types.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/obj/Debug/net9.0/variables_and_date_types.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/obj/Debug/net9.0/variables_and_date_types.genruntimeconfig.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/variables_and_date_types/obj/Debug/net9.0/ref/variables_and_date_types.dll

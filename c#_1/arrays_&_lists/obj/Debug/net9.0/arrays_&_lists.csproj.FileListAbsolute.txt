@@ -1,0 +1,15 @@
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/obj/Debug/net9.0/arrays_&_lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/obj/Debug/net9.0/arrays_&_lists.AssemblyInfoInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/obj/Debug/net9.0/arrays_&_lists.AssemblyInfo.cs
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/obj/Debug/net9.0/arrays_&_lists.csproj.CoreCompileInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/obj/Debug/net9.0/arrays_&_lists.sourcelink.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/bin/Debug/net9.0/arrays_&_lists
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/bin/Debug/net9.0/arrays_&_lists.deps.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/bin/Debug/net9.0/arrays_&_lists.runtimeconfig.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/bin/Debug/net9.0/arrays_&_lists.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/bin/Debug/net9.0/arrays_&_lists.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/obj/Debug/net9.0/arrays_&_lists.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/obj/Debug/net9.0/refint/arrays_&_lists.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/obj/Debug/net9.0/arrays_&_lists.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/obj/Debug/net9.0/arrays_&_lists.genruntimeconfig.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/arrays_&_lists/obj/Debug/net9.0/ref/arrays_&_lists.dll

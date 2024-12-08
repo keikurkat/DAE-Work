@@ -1,0 +1,15 @@
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/bin/Debug/net9.0/conditional_statements
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/bin/Debug/net9.0/conditional_statements.deps.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/bin/Debug/net9.0/conditional_statements.runtimeconfig.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/bin/Debug/net9.0/conditional_statements.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/bin/Debug/net9.0/conditional_statements.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/obj/Debug/net9.0/conditional_statements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/obj/Debug/net9.0/conditional_statements.AssemblyInfoInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/obj/Debug/net9.0/conditional_statements.AssemblyInfo.cs
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/obj/Debug/net9.0/conditional_statements.csproj.CoreCompileInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/obj/Debug/net9.0/conditional_statements.sourcelink.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/obj/Debug/net9.0/conditional_statements.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/obj/Debug/net9.0/refint/conditional_statements.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/obj/Debug/net9.0/conditional_statements.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/obj/Debug/net9.0/conditional_statements.genruntimeconfig.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/conditional_statements/obj/Debug/net9.0/ref/conditional_statements.dll

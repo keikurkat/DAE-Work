@@ -1,0 +1,15 @@
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/bin/Debug/net9.0/functions
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/bin/Debug/net9.0/functions.deps.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/bin/Debug/net9.0/functions.runtimeconfig.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/bin/Debug/net9.0/functions.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/bin/Debug/net9.0/functions.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/obj/Debug/net9.0/functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/obj/Debug/net9.0/functions.AssemblyInfoInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/obj/Debug/net9.0/functions.AssemblyInfo.cs
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/obj/Debug/net9.0/functions.csproj.CoreCompileInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/obj/Debug/net9.0/functions.sourcelink.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/obj/Debug/net9.0/functions.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/obj/Debug/net9.0/refint/functions.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/obj/Debug/net9.0/functions.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/obj/Debug/net9.0/functions.genruntimeconfig.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/functions/obj/Debug/net9.0/ref/functions.dll

@@ -1,0 +1,15 @@
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/bin/Debug/net9.0/loops
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/bin/Debug/net9.0/loops.deps.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/bin/Debug/net9.0/loops.runtimeconfig.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/bin/Debug/net9.0/loops.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/bin/Debug/net9.0/loops.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/obj/Debug/net9.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/obj/Debug/net9.0/loops.AssemblyInfoInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/obj/Debug/net9.0/loops.AssemblyInfo.cs
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/obj/Debug/net9.0/loops.csproj.CoreCompileInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/obj/Debug/net9.0/loops.sourcelink.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/obj/Debug/net9.0/loops.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/obj/Debug/net9.0/refint/loops.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/obj/Debug/net9.0/loops.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/obj/Debug/net9.0/loops.genruntimeconfig.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/loops/obj/Debug/net9.0/ref/loops.dll
