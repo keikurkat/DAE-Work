@@ -1,0 +1,15 @@
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/bin/Debug/net9.0/project
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/bin/Debug/net9.0/project.deps.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/bin/Debug/net9.0/project.runtimeconfig.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/bin/Debug/net9.0/project.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/bin/Debug/net9.0/project.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/obj/Debug/net9.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/obj/Debug/net9.0/project.AssemblyInfoInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/obj/Debug/net9.0/project.AssemblyInfo.cs
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/obj/Debug/net9.0/project.csproj.CoreCompileInputs.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/obj/Debug/net9.0/project.sourcelink.json
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/obj/Debug/net9.0/project.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/obj/Debug/net9.0/refint/project.dll
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/obj/Debug/net9.0/project.pdb
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/obj/Debug/net9.0/project.genruntimeconfig.cache
+/Users/mielikeit/Documents/DAE Folder/c#_1/project/obj/Debug/net9.0/ref/project.dll
