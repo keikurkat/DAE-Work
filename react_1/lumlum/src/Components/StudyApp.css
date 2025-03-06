@@ -1,0 +1,31 @@
+
+/* General Container */
+.study-app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  
+  /* Buttons */
+  .start-button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .end-button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Button Hover Effect */
+  .start-button:hover, .end-button:hover {
+    opacity: 0.8;
+  }
