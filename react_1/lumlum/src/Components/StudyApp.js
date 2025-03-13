@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./StudyApp.css";
-import Stats from "./Stats";
-import Pomodoro from "./Pomodoro"; // Pomodoro timer stays separate
+import Stats from "../Components/Stats";
+import Pomodoro from "../Components/Pomodoro"; // Pomodoro timer stays separate
 
 export default function StudyApp() {
   const [coins, setCoins] = useState(0);
