@@ -2,15 +2,6 @@ import React, { useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Image, TouchableOpacity } from 'react-native';
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Test!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-}
-
 const cutscenes = [
   { image: null, text: "I can't wait to arrive, I heard YarnWood is beautiful this time of year." },
   { image: null, text: "..." },
@@ -19,7 +10,7 @@ const cutscenes = [
   { image: null, text: "" },
 ];
 
-function CutsceneScreen({ onComplete }) {
+export default function CutsceneScreen({ onComplete }) {
   const [sceneIndex, setSceneIndex] = useState(0);
 
   const nextScene = () => {
@@ -41,6 +32,7 @@ function CutsceneScreen({ onComplete }) {
         <Text style={cutsceneStyles.text}>{current.text}</Text>
       </View>
       <Text style={cutsceneStyles.continue}>TAP TO CONTINUE</Text>
+      <StatusBar style="auto" />
     </TouchableOpacity>
   );
 }
@@ -83,16 +75,5 @@ const cutsceneStyles = StyleSheet.create({
     color: '#fff',
     fontSize: 12,
     opacity: 0.7,
-  },
-});
-
-export { CutsceneScreen };
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
   },
 });
